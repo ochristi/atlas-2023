@@ -1,0 +1,32 @@
+{
+	"id": -1,
+	"name": "808s & Heartbreak",
+	"description": "fourth studio album by American rapper Kanye West",
+	"links": {},
+	"path": {
+		"128-153": [
+			[
+				-570,
+				-204
+			],
+			[
+				-557,
+				-204
+			],
+			[
+				-557,
+				-191
+			],
+			[
+				-570,
+				-191
+			]
+		]
+	},
+	"center": {
+		"128-153": [
+			-563,
+			-197
+		]
+	}
+}
