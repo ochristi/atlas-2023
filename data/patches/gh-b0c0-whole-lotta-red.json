@@ -1,0 +1,32 @@
+{
+	"id": -1,
+	"name": "Whole Lotta Red",
+	"description": "Logo of 'Whole Lotta Red', seconds studio album by American rapper 'Playboi Carti'.",
+	"links": {},
+	"path": {
+		"111-153": [
+			[
+				-544,
+				-204
+			],
+			[
+				-502,
+				-204
+			],
+			[
+				-502,
+				-191
+			],
+			[
+				-544,
+				-191
+			]
+		]
+	},
+	"center": {
+		"111-153": [
+			-523,
+			-197
+		]
+	}
+}
